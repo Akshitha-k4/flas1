@@ -1,0 +1,62 @@
+body {
+    font-family:'Times New Roman', Times, serif Arial, sans-serif;
+    margin: 10;
+    padding: 10;
+  }
+  
+  .header {
+    text-align: center;
+    font-size: 20px;
+    padding: 10px ;
+    background-color: #b99dd4;
+  }
+  
+  /* Section Styles */
+  .section {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-bottom: 1px solid #be91cd;
+  }
+  
+  h2 {
+    font-size: 5px;
+    margin-bottom: 3px;
+  }
+  
+  /* List Styles */
+  ul {
+    list-style-type: style circle;;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  /* Course List Styles */
+  .courses-list li strong {
+    font-weight: bold;
+  }
+  
+  .courses-list li em {
+    font-style: italic;
+  }
+  
+  /* Publication List Styles */
+  .publications-list a {
+    color: #000000;
+  }
+  
+  /* Project List Styles */
+  .projects-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  /* Education List Styles */
+  .education-list li {
+    margin-bottom: 10px;
+  }
+  
